@@ -26,7 +26,11 @@ This project simulates a genetic algorithm to evolve a population of "moths" rep
 
 ## Implementation Source code
 
-``` notebooks/main.ipynb ```
+``` notebooks/main_gray.ipynb ```
+
+and
+
+``` notebooks/main_colorful.ipynb ```
 
 
 ## Conda Environment
