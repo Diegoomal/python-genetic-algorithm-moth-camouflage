@@ -29,24 +29,25 @@ This project simulates a genetic algorithm to evolve a population of "moths" rep
 ``` notebooks/main.ipynb ```
 
 
+## Conda Environment
 
-## Create ENV
+### Create ENV
 
 ``` conda env create -n moth-camo-env -f ./env.yml ```
 
-## Update ENV
+### Update ENV
 
 ``` conda env update -n moth-camo-env -f ./env.yml ```
 
-## Remove ENV
+### Remove ENV
 
 ``` conda env remove --n moth-camo-env ```
 
-## Activate ENV
+### Activate ENV
 
 ``` conda activate moth-camo-env ```
 
-## RUN
+## Execute
 
 ``` python src/main.py ```
 
